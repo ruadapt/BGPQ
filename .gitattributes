@@ -1,1 +1,2 @@
 astar/datasets/** filter=lfs diff=lfs merge=lfs -text
+sssp/datasets/** filter=lfs diff=lfs merge=lfs -text
